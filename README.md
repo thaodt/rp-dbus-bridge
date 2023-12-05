@@ -1,1 +1,1 @@
-# rp-zbus
+# rp-dbus-bridge
